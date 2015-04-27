@@ -1,4 +1,4 @@
-# puphpet-lamp
+# puphpet-digitalocean-lamp
 A demo for creating a LAMP droplet on DigitalOcean.
 
 ## Configuration: config.yaml
